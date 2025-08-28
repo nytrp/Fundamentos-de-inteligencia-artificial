@@ -1,1 +1,2 @@
-# Fundamentos-de-inteligencia-artificial
+Isaac Montes
+Daniel Santiago 
