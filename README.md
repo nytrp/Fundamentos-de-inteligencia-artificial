@@ -11,7 +11,7 @@ Este repositorio contiene las actividades y trabajos desarrollados en la asignat
 ---
 
 ## 📂 Contenido
-**Corte_1**
+## **Corte_1**
 - **2.5.6 - Actividad I**  
 - **2.5.7 - Actividad 2**
 - **3.3.2 - Actividad 3**
